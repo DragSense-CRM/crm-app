@@ -70,3 +70,4 @@ Designed to be **modular, extensible, and blueprint-driven**, DragSense empowers
 | CI/CD     | GitHub Actions / Turborepo (optional) |
 
 ---
+# crm
