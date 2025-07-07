@@ -61,13 +61,12 @@ Designed to be **modular, extensible, and blueprint-driven**, DragSense empowers
 
 | Layer     | Technology                 |
 |-----------|----------------------------|
-| Frontend  | React, Vite, TailwindCSS, ShadCN UI, TanStack Router, Zustand |
+| Frontend  | React, Vite, TailwindCSS, ShadCN UI, Zustand |
 | Backend   | NestJS, TypeORM, PostgreSQL + MongoDB (hybrid) |
-| Realtime  | Socket.IO (planned)        |
+| Realtime  | Socket.IO        |
 | Auth      | JWT + Role/Scope Based     |
 | Forms     | React Hook Form + Zod      |
-| Drag/Drop | DND Kit, React Grid Layout |
-| CI/CD     | GitHub Actions / Turborepo (optional) |
+| Drag/Drop | DND Kit |
 
 ---
 # crm
